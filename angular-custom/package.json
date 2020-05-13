@@ -1,0 +1,23 @@
+{
+  "name": "@sanjeev-naico/angular-custom",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.6",
+    "@angular/core": "^9.1.6",
+    "tslib": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sanjeev-naico/customAngular.git"
+  },
+  "main": "bundles/sanjeev-naico-angular-custom.umd.js",
+  "module": "fesm5/sanjeev-naico-angular-custom.js",
+  "es2015": "fesm2015/sanjeev-naico-angular-custom.js",
+  "esm5": "esm5/sanjeev-naico-angular-custom.js",
+  "esm2015": "esm2015/sanjeev-naico-angular-custom.js",
+  "fesm5": "fesm5/sanjeev-naico-angular-custom.js",
+  "fesm2015": "fesm2015/sanjeev-naico-angular-custom.js",
+  "typings": "sanjeev-naico-angular-custom.d.ts",
+  "metadata": "sanjeev-naico-angular-custom.metadata.json",
+  "sideEffects": false
+}

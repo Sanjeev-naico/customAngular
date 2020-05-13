@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of angular-custom
+ */
+export * from './lib/angular-custom.service';
+export * from './lib/angular-custom.component';
+export * from './lib/angular-custom.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BzYW5qZWV2LW5haWNvL2FuZ3VsYXItY3VzdG9tLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYyxnQ0FBZ0MsQ0FBQztBQUMvQyxjQUFjLDZCQUE2QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBhbmd1bGFyLWN1c3RvbVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItY3VzdG9tLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvYW5ndWxhci1jdXN0b20uY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItY3VzdG9tLm1vZHVsZSc7XG4iXX0=
