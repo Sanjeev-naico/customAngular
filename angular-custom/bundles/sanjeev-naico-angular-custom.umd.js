@@ -252,7 +252,7 @@
         AngularCustomComponent = __decorate([
             core.Component({
                 selector: 'lib-angularCustom',
-                template: "\n    <p>\n      angular-custom works!\n    </p>\n  "
+                template: "\n<button> Test</button>\n  "
             })
         ], AngularCustomComponent);
         return AngularCustomComponent;

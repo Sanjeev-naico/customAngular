@@ -20,9 +20,7 @@ AngularCustomComponent = __decorate([
     Component({
         selector: 'lib-angularCustom',
         template: `
-    <p>
-      angular-custom works!
-    </p>
+<button> Test</button>
   `
     })
 ], AngularCustomComponent);
